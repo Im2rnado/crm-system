@@ -39,20 +39,6 @@ A comprehensive Customer Relationship Management (CRM) system built with Python,
 - Scikit-learn (AI Recommendations)
 - CSV (Data Storage)
 
-## Project Structure
-
-```
-├── code/
-│   ├── Final Project/
-│   │   ├── Project.py
-│   │   ├── customer_table.csv
-│   │   ├── product_table.csv
-│   │   ├── purchase_history_table.csv
-│   │   ├── sales_data_table.csv
-│   │   ├── inventory_table.csv
-│   │   └── users.csv
-```
-
 ## Default Login Credentials
 
 - **Admin:**
