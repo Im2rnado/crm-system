@@ -39,23 +39,6 @@ A comprehensive Customer Relationship Management (CRM) system built with Python,
 - Scikit-learn (AI Recommendations)
 - CSV (Data Storage)
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone [repository-url]
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the application:
-```bash
-python Project.py
-```
-
 ## Project Structure
 
 ```
